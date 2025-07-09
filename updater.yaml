@@ -1,0 +1,9 @@
+game:
+    name: Rejuvenation
+    url: https://mega.nz/file/sdUkHQRS#UY7NJ1n1wWESljitmdO1q5HR9MuWNAnzuGAz4s1NzIo
+    version: 13.5.7 Gen9EncountersMod v0.0
+    version_url: https://github.com/Iracy/PokemonRejuvGen9EncountersMod/raw/main/_version.txt
+    patch_url: https://github.com/Iracy/PokemonRejuvGen9EncountersMod/raw/main/patch.zip
+    format: zip
+    password: null
+mods: []
